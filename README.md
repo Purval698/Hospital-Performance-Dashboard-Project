@@ -1,4 +1,5 @@
-# Hospital Patient Data Analysis
+# Hospital-Performance-Dashboard-Project
+
 ## Overview
 This project involves analyzing hospital patient data to gain insights into patient admissions, diagnoses, bed occupancy, billing, 
 and healthcare operations. Using Power BI, interactive dashboards were created to visualize key metrics and trends,
